@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/onlineClue/static/css/main.bd10d6dc.css",
+    "main.js": "/onlineClue/static/js/main.749511f3.js",
+    "static/js/787.25471cf6.chunk.js": "/onlineClue/static/js/787.25471cf6.chunk.js",
+    "static/media/bgClue.png": "/onlineClue/static/media/bgClue.fa5c93db74892697b3e1.png",
+    "index.html": "/onlineClue/index.html",
+    "main.bd10d6dc.css.map": "/onlineClue/static/css/main.bd10d6dc.css.map",
+    "main.749511f3.js.map": "/onlineClue/static/js/main.749511f3.js.map",
+    "787.25471cf6.chunk.js.map": "/onlineClue/static/js/787.25471cf6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd10d6dc.css",
+    "static/js/main.749511f3.js"
+  ]
+}
